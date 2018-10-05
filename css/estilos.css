@@ -7,3 +7,12 @@ p {
 img {
   max-height: 100px;
 }
+.organizar {
+  display: flex;
+}
+img {
+  position: relative;
+}
+.ver {
+  color: red;
+}
